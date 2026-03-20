@@ -1,0 +1,11 @@
+node_modules/
+.altera-sync/
+metaobjects/
+
+# Export/import artifacts
+*.xlsx
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db

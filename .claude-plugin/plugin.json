@@ -1,0 +1,11 @@
+{
+  "name": "altera",
+  "version": "0.1.0",
+  "description": "Manage Shopify stores with the Altera CLI — metaobject syncing between stores",
+  "author": {
+    "name": "Altera"
+  },
+  "repository": "https://github.com/getaltera/claude-plugin",
+  "license": "MIT",
+  "keywords": ["shopify", "altera", "metaobjects"]
+}
