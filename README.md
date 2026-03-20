@@ -5,6 +5,7 @@ A [Claude Code](https://claude.ai/claude-code) plugin with skills for managing S
 ## Installation
 
 ```
+/plugin marketplace add getaltera https://github.com/getaltera/claude-plugin
 /plugin install altera@getaltera
 ```
 

@@ -1,0 +1,24 @@
+{
+  "name": "getaltera",
+  "owner": {
+    "name": "Altera"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for managing Shopify stores with Altera"
+  },
+  "plugins": [
+    {
+      "name": "altera",
+      "description": "Manage Shopify stores with the Altera CLI — metaobject syncing between stores",
+      "source": ".",
+      "version": "0.1.0",
+      "author": {
+        "name": "Altera"
+      },
+      "repository": "https://github.com/getaltera/claude-plugin",
+      "license": "MIT",
+      "keywords": ["shopify", "altera", "metaobjects"],
+      "category": "integrations"
+    }
+  ]
+}
